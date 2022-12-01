@@ -1,7 +1,6 @@
 # Uber Web3
 - Web 3.0
 - Metamask
-- NextJS 12
 - Sanity.io
 - Mapbox
 
