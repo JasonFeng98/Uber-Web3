@@ -1,16 +1,14 @@
-# Uber NextJs Blockchain Clone
-
+# Uber Web3
 - Web 3.0
 - Metamask
 - NextJS 12
 - Sanity.io
 - Mapbox
-- TailwindCSS
+
 
 ## Getting Started
 
 > Make sure you have Metamask browser extension installed with a wallet attached.  
-> No real transactions will take place. 😊
 
 <br />
 
@@ -30,18 +28,6 @@ npm install
 <br />
 
 ### 3) Create your Sanity.io project
-
-Create a new project at [Sanity.io](https://www.sanity.io/).
-
-Then, go into the `studio` (sanity studio) folder. Use `sanity.json.template` to create `sanity.json` file. Paste in your Sanity project.name and api.projectId values.
-
-Run `npm install` to install the studio dependencies.
-
-Run `sanity start` and open [http://localhost:3333](http://localhost:3333)
-
-Create data for Rides by referring to `sample-data/rides.json` and PNGs from `assets/rides`
-
-Run `sanity deploy` to deploy your local changes to Sanity.io.
 
 For more info [https://www.sanity.io/docs/getting-started-with-sanity-cli](https://www.sanity.io/docs/getting-started-with-sanity-cli)
 
